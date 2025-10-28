@@ -36,3 +36,4 @@ build/
 
 ### Mac OS ###
 .DS_Storesrc/main/resources/mnist_train.csv
+src/main/resources/mnist_train.csv
