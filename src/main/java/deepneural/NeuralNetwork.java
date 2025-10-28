@@ -1,6 +1,5 @@
 package deepneural;
 
-import Utils.DataSet;
 import java.util.List;
 
 public class NeuralNetwork {
